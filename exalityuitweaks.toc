@@ -1,0 +1,14 @@
+## Interface: 110000
+## Title: Exality UI Tweaks
+## Author: Exality
+## SavedVariables: ExalityUITweaks
+
+
+# Core Functionality
+util.lua
+init.lua
+
+# Modules
+paperdolldisplay.lua
+fonts.lua
+raid.lua
